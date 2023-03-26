@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S78648 as my real name is sumit sirohi 
-- 👀 I’m interested in ...creating new project ideas which is innovative and effective regarding the real life problems that we're facing 
-- 🌱 I’m currently learning ...java framework spring ..
-- 💞️ I’m looking to collaborate on ... projects related to spring hibernate 
+- 👀 I’m interested in ...creating new project ideas which is innovative and effective regarding the real world problems that we're facing .
+- 🌱 I’m currently learning ...Javascript frameworks and libraries..
+- 💞️ I’m looking to collaborate on ... projects related to Node js and React
 - 📫 How to reach me ...contact me through 8077315043
 
 <!---
