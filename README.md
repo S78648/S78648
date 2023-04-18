@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S78648 as my real name is sumit sirohi 
+- 👋 Hi, I’m Sumit Sirohi 
 - 👀 I’m interested in ...creating new project ideas which is innovative and effective regarding the real world problems that we're facing .
 - 🌱 I’m currently learning ...Javascript frameworks and libraries..
 - 💞️ I’m looking to collaborate on ... projects related to Node js and React
