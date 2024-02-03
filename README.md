@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Sirohi 
-- 👀 I’m interested in ...creating new project ideas which is innovative and effective regarding the real world problems that we're facing .
-- 🌱 I’m currently learning ...Javascript frameworks and libraries..
+- 👀 I’m interested in ...creating new project ideas that are innovative and effective regarding the real-world problems that we're facing.
+- 🌱 I’m currently learning ...Javascript frameworks and libraries...
 - 💞️ I’m looking to collaborate on ... projects related to Node js and React
 - 📫 How to reach me ...contact me through sirohisumit4@gmail.com
 
